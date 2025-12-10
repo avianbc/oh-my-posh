@@ -31,7 +31,7 @@
           "foreground": "#100e23",
           "leading_diamond": "<transparent,#26BDBB>\ue0b0</>",
           "powerline_symbol": "\ue0b0",
-          "properties": {
+          "options": {
             "folder_separator_icon": " \ue0b1 ",
             "style": "full"
           },
@@ -44,7 +44,7 @@
           "background": "#95ffa4",
           "foreground": "#100e23",
           "powerline_symbol": "\ue0b0",
-          "properties": {
+          "options": {
             "fetch_stash_count": true,
             "fetch_status": true,
             "fetch_upstream_icon": true
