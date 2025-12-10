@@ -77,7 +77,6 @@
       "type": "prompt"
     }
   ],
-  "console_title_template": "{{.Folder | replace \"~\" \"🏠\"}} @ {{.Shell}}",
   "final_space": true,
   "osc99": true,
   "version": 2
